@@ -1,6 +1,6 @@
 ### Quartic-DS-Solution
 
- _*Conceptual Approach*_ <br>
+ __***Conceptual Approach***__ <br>
 
 1- Understanding the problem and the dataset. <br>
 2- Cleaning the dataset by handling missing values. <br>
