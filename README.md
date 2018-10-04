@@ -14,7 +14,7 @@ __***Model Performance***__ <br>
 
 As model is Decision Tree classifier :<br>
        1. Time Complexity <br>
-          Assuming the worst case Scenario **O(mnlogn)** , which is for every node n we wil test m feature.<br>
+          Assuming the worst case Scenario **O(mnlogn)** , which is for every node n we will test m features.<br>
           We can have time complexity by putting m=25 and n=892816 <br>
        2. Execution Time <br>
           The execution time can be calculated by importing timeit, which comes around 0.003561342499551756.<br>
