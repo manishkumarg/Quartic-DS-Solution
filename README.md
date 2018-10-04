@@ -13,13 +13,12 @@
 __***Model Performance***__ <br>
 
 As model is Decision Tree classifier :<br>
-      1. Time Complexity <br>
-         Assuming the worst case Scenario **O(mnlogn)** , which is for every node n we wil test m feature.<br>
-         We can have time complexity by putting m=25 and n=892816 <br>
-      
-      2. Execution Time <br>
-         The execution time can be calculated by importing timeit, which comes around 0.003561342499551756.
+       1. Time Complexity <br>
+          Assuming the worst case Scenario **O(mnlogn)** , which is for every node n we wil test m feature.<br>
+          We can have time complexity by putting m=25 and n=892816 <br>
+       2. Execution Time <br>
+          The execution time can be calculated by importing timeit, which comes around 0.003561342499551756.<br>
          
-If I had more time , I would like to go in depth of each variable and its relation with target through visulaizayon techniques. I would have explore why Derived attributes are having low statistical significance and weak correlation with the target field. Also I would have tried to reduce the number of features. 
+If I had more time , I would like to go in depth of each variable and its relation with target through visualization techniques. I would have explore why Derived attributes are having low statistical significance and weak correlation with the target field. Also I would have tried to reduce the number of features. 
          
           
