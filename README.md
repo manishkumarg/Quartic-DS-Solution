@@ -1,4 +1,4 @@
-### Quartic-DS-Solution {align=center}
+### <centre>Quartic-DS-Solution</centre> 
 
  __***Conceptual Approach***__ <br>
 
