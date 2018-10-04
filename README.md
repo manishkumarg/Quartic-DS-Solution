@@ -1,6 +1,7 @@
 ### Quartic-DS-Solution
 
-** Conceptual Approach** <br>
+ _*Conceptual Approach*_ <br>
+
 1- Understanding the problem and the dataset. <br>
 2- Cleaning the dataset by handling missing values. <br>
 3- Understanding the relation between different variables with the target field  using P-value and Pearson coefficient. <br>
